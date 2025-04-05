@@ -39,7 +39,7 @@ Make sure you have Node.js installed on your system then, clone this repository
 - Writes the restored data to decrypted.txt.
 
 
-  ## Notes
+  ## 📝 Notes
 
 - The encryption logic shifts each byte by +1, and decryption shifts it back by -1.
 
